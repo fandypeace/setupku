@@ -58,6 +58,5 @@ visible_hostname greenlandsnetwork.net
 
 END
 
-chmod 755 squid
 chkconfig squid on
 service squid restart
