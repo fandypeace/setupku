@@ -5,9 +5,10 @@ echo "Gunakan User root Untuk Menjalankan Script ini"
 exit 0
 fi
 #downLOAD
-wget 
+cd root
+wget https://github.com/fandypeace/setupku/raw/master/portfwd
 cd /etc/
-cp rc.local /etc/rc.local.fandy
+cp rc.local /etc/rc.local.fandypeace
 rm rc.local
 wget https://github.com/fandypeace/setupku/raw/master/rc.local
 
