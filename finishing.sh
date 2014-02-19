@@ -4,8 +4,8 @@ then
 echo "Gunakan User root Untuk Menjalankan Script ini"
 exit 0
 fi
-#downLOAD
-cd /root/
+#install openvpn
+cd root
 wget https://github.com/fandypeace/setupku/raw/master/portfwd
 
 #jeda manng
