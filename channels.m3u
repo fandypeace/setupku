@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" tvg-id="6a6a958b1f34f1b145c315648e011ec0",BeritaSatu
+http://45.76.182.160:9981/stream/channelid/194341482?ticket=178077A8DF8149C7180332504C00EA636C911019&profile=pass
+#EXTINF:-1 logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" tvg-id="8dfd5a98ef7974ff6b915dc91038eaf4",BeritaSatu
+http://45.76.182.160:9981/stream/channelid/408616333?ticket=AE9D14FFE65B62A7200CE8648E4A401FBDD36B50&profile=pass
+#EXTINF:-1 logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" tvg-id="b78566a2c03b6d49f728526d74b1d3b3",BeritaSatu
+http://45.76.182.160:9981/stream/channelid/577144247?ticket=0C760F7A2C75D17603714D14FA74DB8B89392C69&profile=pass
+#EXTINF:-1 tvg-id="6eabea56c39fbaf0d72293340d42ef51",Channel NewsAsia,CNA HD
+http://45.76.182.160:9981/stream/channelid/1458219886?ticket=CDD26853883E69ED044658F789A928BC82D9F44B&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-id="8edce9deb83e66d58f3f3ed85aa6f64c",CNBC Indonesia
+http://45.76.182.160:9981/stream/channelid/1592384654?ticket=596CF9DD2056EFAEF0D8E95B6EABA5FF75039591&profile=pass
+#EXTINF:-1 tvg-id="ca74aafedc9c094f296be7f4619a651d",CNBC Indonesia
+http://45.76.182.160:9981/stream/channelid/2125100234?ticket=615F3DEAF2484761C31F7B363EC8BBDEC9E1F11C&profile=pass
+#EXTINF:-1 tvg-id="356c1d734a3fe7e0b880e9bc11206ebb",CNBC Indonesia 1
+http://45.76.182.160:9981/stream/channelid/1931308085?ticket=A74C00D8C2A18D3AE9E74B967B364EBB34688F85&profile=pass
+#EXTINF:-1 tvg-id="52a1e8c8f6d3ad7253b3332f750e21a6",CNBC,CNBC Indonesia
+http://45.76.182.160:9981/stream/channelid/1223205202?ticket=88A3F6D8DA415243EA5BEA4CBAC35D26225EF47B&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/RIwYxS9.png" tvg-id="5d2ec5ae5c566499a1318eb74a2b1076",ID | TVRI Kanal 3,TVRI Kanal 3
+http://45.76.182.160:9981/stream/channelid/784674397?ticket=C075DC5ABB8C446863A2FC9173A8780543817BC5&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/bD2odoR.png" tvg-id="5547f7249eae865d71d347e6e4364133",ID | TVRI,TVRI
+http://45.76.182.160:9981/stream/channelid/620185429?ticket=2591D3F65955BFA4F5D2790487B297C56B7CEB35&profile=pass
+#EXTINF:-1 logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" tvg-id="f5d0f8b963a60bd5da4e280be2460398",TVKU
+http://45.76.182.160:9981/stream/channelid/972607733?ticket=1CABA828CA5ADFEC5C1EDD4F5D74443972326935&profile=pass
+#EXTINF:-1 tvg-id="20a784dd69c17f06f9ec6f883372e5c3",TVRI Jawa Barat
+http://45.76.182.160:9981/stream/channelid/1568974624?ticket=033BF9BA4244723B6275A8AF30BD45E3A2A815A1&profile=pass
